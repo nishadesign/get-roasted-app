@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-roasted-app/static/css/main.f89435e7.css",
+    "main.js": "/get-roasted-app/static/js/main.71403696.js",
+    "index.html": "/get-roasted-app/index.html",
+    "main.f89435e7.css.map": "/get-roasted-app/static/css/main.f89435e7.css.map",
+    "main.71403696.js.map": "/get-roasted-app/static/js/main.71403696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f89435e7.css",
+    "static/js/main.71403696.js"
+  ]
+}
